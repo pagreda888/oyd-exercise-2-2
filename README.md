@@ -3,6 +3,7 @@
 ## Evidence
 - PR: https://github.com/pagreda888/oyd-exercise-2-2/pull/1
 - ![PR comment](evidence/pr-comment.png)
+- ![PR image](evidence/image.png)
 
 ## Local credential override
 Terraform uses the standard AWS credential chain. For local testing, you can set AWS_* environment variables from a .env file, or use existing environment variables or ~/.aws/credentials. The same Terraform commands are used in CI and locally.
