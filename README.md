@@ -1,7 +1,7 @@
 # Terraform CI Pipeline
 
 ## Evidence
-- PR: <ADD_PR_LINK>
+- PR: https://github.com/pagreda888/oyd-exercise-2-2/pull/1
 - ![PR comment](evidence/pr-comment.png)
 
 ## Local credential override
